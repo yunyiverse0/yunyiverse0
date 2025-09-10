@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**yunyiverse0/yunyiverse0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yunyiverse0/yunyiverse0** is a ✨ Yunyi Han✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
