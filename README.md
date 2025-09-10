@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=AI+%F0%9F%A4%96+%C2%B7+Education+%F0%9F%93%9A+%C2%B7+Automation+%F0%9F%9A%80;한%2C+윤r%2C+이;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=AI+%F0%9F%A4%96+%C2%B7+Education+%F0%9F%93%9A+%C2%B7+Automation+%F0%9F%9A%80;han%2C+yunr%2C+yi;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
 </p>
 
 
