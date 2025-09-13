@@ -1,5 +1,5 @@
 <h1 align="center">◡̈⃝✩‧₊ Yunyi Han </h1>
-<h3 align="center"><i>"~"</i></h3>
+<h3 align="center"><i>~</i></h3>
 
 <p align="center">
   <!-- Animated typing SVG -->
