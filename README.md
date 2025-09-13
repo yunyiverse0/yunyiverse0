@@ -1,9 +1,9 @@
 <h1 align="center">◡̈⃝✩‧₊ Yunyi Han </h1>
-<h3 align="center"><i>"Database Management Systems"</i></h3>
+<h3 align="center"><i>"~"</i></h3>
 
 <p align="center">
   <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=han+%F0%9F%A4%96+%C2%B7+yun+%F0%9F%93%9A+%C2%B7+yi+%F0%9F%9A%80;han%2C+yun%2C+yi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Database+%F0%9F%A4%96+%C2%B7+Management+%F0%9F%93%9A+%C2%B7+System+%F0%9F%9A%80;han%2C+yun%2C+yi" />
 </p>
 
 
