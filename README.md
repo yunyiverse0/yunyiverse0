@@ -4,7 +4,7 @@
 
  <p align="center">
   <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Dtabease+%F0%9F%A4%96+%C2%B7+Management+%F0%9F%93%9A+%C2%B7+System+%F0%9F%9A%80;Practical+Instructor%2C+Developer%2C+Curriculum+Designer;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Dtabease+%F0%9F%A4%96+%C2%B7+Management+%F0%9F%93%9A+%C2%B7+System+%F0%9F%9A%80;유니센터%2C+데이터베이스%2C+수업용;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
 </p>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yunyiverse0.yunyiverse0)
