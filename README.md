@@ -28,9 +28,8 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc;" />
 
-##### -🎧노래듣기
-##### -🎞️영화, 애니 보기
-##### -🍚맛집가기
+##### -🎧Listening
+##### -🎞️Watching movies and anime
 
 
 
