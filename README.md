@@ -8,7 +8,7 @@
 
 ---
 
-#### ⌜ About Me ⌟
+## ⌜ About Me ⌟
 
 <hr style="border: 0; border-top: 0.1px solid #ccc;" />
 
@@ -24,7 +24,7 @@
 
 ---
 
-#### ⌜ Hobby ⌟
+## ⌜ Hobby ⌟
 
 <hr style="border: 0; border-top: 0.1px solid #ccc;" />
 
