@@ -10,8 +10,6 @@
 
 ## ⌜ About Me ⌟
 
-<hr style="border: 0; border-top: 0.1px solid #ccc;" />
-
 ##### Name: Yunyi Han
 ##### Major: I'm planning to major in AI but later I hope to specialize in Biology
 ##### Personality: I'm kinda shy at first but I talk a lot once I'm comfortable
@@ -19,8 +17,6 @@
 ---
 
 ## ⌜ Hobby ⌟
-
-<hr style="border: 0; border-top: 0.1px solid #ccc;" />
 
 ##### -🎧Listening music
 ##### -🎞️Watching movies and anime
