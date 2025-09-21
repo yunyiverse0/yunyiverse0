@@ -10,17 +10,17 @@
 
 ## ⌜ About Me ⌟
 
-##### Name: Yunyi Han
-##### Major: I'm planning to major in AI but later I hope to specialize in Biology
-##### Personality: I'm kinda shy at first but I talk a lot once I'm comfortable
+##### 이름: 한윤이
+##### 전공: 현재로선 AI 분야 희망하고 있습니다. 추후에는 Biology와 Ai연계해서 더 공부해보고 싶습니다.
+##### 성격: 초반에는 낯을 많이 가리는데 친해지면 말이 많아지는 것 같아요..ㅎ
 
 ---
 
 ## ⌜ Hobby ⌟
 
-##### -🎧Listening music
-##### -🎞️Watching movies and anime
-
+##### -🎧노래듣기
+##### -🎞️영화보기
+##### -🍃산책하기
 
 
 
