@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Animated typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Database+%F0%9F%A4%96+%C2%B7+Management+%F0%9F%93%9A+%C2%B7+Systems+%F0%9F%9A%80;Han%2C+Yun%2C+Yi;Whisper+%2B+GPT+%2F+RAG+%2F+PyTorch+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Database+%F0%9F%A4%96+%C2%B7+Management+%F0%9F%93%9A+%C2%B7+Systems+%F0%9F%9A%80;Han%2C+Yun%2C+Yi;H%2B+GPT+%2FM%2FM" />
 </p>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yunyiverse0.yunyiverse0)
