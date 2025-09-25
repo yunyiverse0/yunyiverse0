@@ -32,11 +32,3 @@
 
 
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/yunyiverse0/github-contribution-grid-snake.svg)
-
-
-
-
-
-
