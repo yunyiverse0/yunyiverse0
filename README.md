@@ -27,8 +27,8 @@
 
 ## ⌜ Goal ⌟
 
-##### - I want to be a Biologist
-##### - I want to study neuroscience and molecular biology
+##### - I want to be a Biologist🧬
+##### - I want to study neuroscience and molecular biology🔬
 
 
 
