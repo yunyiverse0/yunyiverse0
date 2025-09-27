@@ -2,7 +2,7 @@
 
 
 <h1 align="center">◡̈⃝✩‧₊ My Introduction Repository </h1>
-<h3 align="center"><i>G'day mate. I'm Yunyi Han!</i></h3>
+<h3 align="center"><i>G'day mate</i></h3>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yunyiverse0.yunyiverse0)
 
@@ -10,25 +10,22 @@
 
 ## ⌜ About Me ⌟
 
-##### - Name: Yunyi Han
-##### - Major: I'm planning to major in AI but later I hope to study Biology
-##### - Personality: I tend to be quiet at first time but I talk a lot once I get to know people
-##### - I'm new to studying IT so I'm a bit slow and clumsy but I appreciate your help
-
+##### - 이름 : 한윤이
+##### - 전공: 현재로선 AI분야 희망하고 있습니다. 추후에 Biology 연계해서 더 공부하고 싶습니다.
+##### - 성격: 초반에는 낯을 많이 가리지만 친해지면 말도 웃음도 많아져요..ㅎㅎ
+##### - AI공부는 처음이고 엄청난 컴맹이라..옆에서 도와주시면 감사하겠습니다!
 ---
 
 ## ⌜ Hobby ⌟
 
-##### -🎧Listening music
-##### -🍃taking a walk
-##### -🫂meent new people
-
+##### -🎧노래 듣기
+##### -🍃산책하기
 ---
 
 ## ⌜ Goal ⌟
 
-##### - I want to be a Biologist🧬
-##### - I want to study neuroscience and molecular biology🔬
+##### - 과학자가 되고 싶습니다.🧬
+##### - 뇌과학이나 분자학 분야를 공부하고 싶습니다.🔬
 
 
 
