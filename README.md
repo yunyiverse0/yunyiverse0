@@ -6,10 +6,6 @@
 
 ![Hmm](https://i.pinimg.com/1200x/b7/11/bb/b711bb6552b8e85b76c8a27f87148d0e.jpg)
 
-
-[![Typing SVG](https://readme-Nicetomeetyou-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Learning+AI+and+Biology)](https://git.io/typing-svg)
-
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yunyiverse0.yunyiverse0)
 
 ---
