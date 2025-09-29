@@ -10,22 +10,16 @@
 
 ## ⌜ About Me ⌟
 
-##### - 이름 : 한윤이
-##### - 전공: 현재로선 AI분야 희망하고 있습니다. 추후에 Biology 연계해서 더 공부하고 싶습니다.
-##### - 성격: 초반에는 낯을 많이 가리지만 친해지면 말도 웃음도 많아지는 것 같습니다
-##### - AI공부는 처음이고 엄청난 컴맹이라..옆에서 도와주시면 감사하겠습니다!
----
+##### - name : Yunyi Han
+##### - Major : I’m planning to go into AI but after that, I’d like to study more in biology
+##### - personality : I tend to be shy at first but I talk a lot once I feel comfortable
+##### - I’m new to AI and not very good with computers, so I’d really appreciate your help
 
-## ⌜ Hobby ⌟
-
-##### -🎧노래듣기
-##### -🍃산책하기
 ---
 
 ## ⌜ Goal ⌟
 
-##### - 과학자가 되고 싶습니다.🧬
-##### - 뇌과학이나 분자학 분야를 공부하고 싶습니다.🔬
+##### - I want to be a scientist🧬🔬
 
 
 
