@@ -10,9 +10,9 @@
 
 ## ⌜ About Me ⌟
 
-##### - name : Yunyi Han
+##### - Name : Yunyi Han
 ##### - Major : I’m planning to go into AI but after that, I’d like to study more in biology
-##### - personality : I tend to be shy at first but I talk a lot once I feel comfortable
+##### - Personality : I tend to be shy at first but I talk a lot once I feel comfortable
 ##### - I’m new to AI and not very good with computers, so I’d really appreciate your help
 
 ---
