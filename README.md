@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">Check out my other repository!</i></h2>
+<h2 align="center">Check out my other repositories!</i></h2>
 
 
 
