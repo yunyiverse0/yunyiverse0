@@ -10,20 +10,11 @@
 
 ---
 
-## ⌜ About Me ⌟
+## ⌜ contact me ⌟
 
-##### - Name : Yunyi Han
-##### - Major : I’m planning to go into AI but after that, I’d like to study more in biology
-##### - Personality : I tend to be shy at first but I talk a lot once I feel comfortable
-##### - I’m new to AI and not very good with computers, so I’d really appreciate your help
+##### yunyiverse0302@gmail.com
 
----
-
-## ⌜ Goal ⌟
-
-##### - I want to be a scientist🧬🔬
-
----
+🧬🔬
 
 <h2 align="center">Check out my other repositories!</i></h2>
 
