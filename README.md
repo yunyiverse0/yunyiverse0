@@ -10,9 +10,9 @@
 
 ---
 
-## ⌜ contact me ⌟
+<h4 align="center"> ⌜ contact me ⌟<h4>
 
-##### yunyiverse0302@gmail.com
+<h6 align="center">yunyiverse0302@gmail.com<h6>
 
 🧬🔬
 
