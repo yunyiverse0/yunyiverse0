@@ -16,7 +16,6 @@
 
 🧬🔬
 
-<h2 align="center">Check out my other repositories!</i></h2>
 
 
 
