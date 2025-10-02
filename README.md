@@ -14,7 +14,7 @@
 
 <h6 align="center">yunyiverse0302@gmail.com<h6>
 
-🧬🔬
+<h6 align="center">🧬🔬<h6>
 
 
 
