@@ -2,8 +2,8 @@
 
 
 <h1 align="center">◡̈⃝✩‧₊ My Introduction Repository </h1>
-<h3 align="center"><i>G'day mate</i></h3>
-<h1 align="center">Check out my other repository!</i></h1>
+<h2 align="center"><i>G'day mate</i></h2>
+<h4 align="center">Check out my other repository!</i></h4>
 ![Hmm](https://i.pinimg.com/1200x/b7/11/bb/b711bb6552b8e85b76c8a27f87148d0e.jpg)
 
 ---
