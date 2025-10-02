@@ -10,7 +10,7 @@
 
 ---
 
-<h4 align="center"> ⌜ contact me ⌟<h4>
+<h4 align="center"> ⌜ contact ⌟<h4>
 
 <h6 align="center">yunyiverse0302@gmail.com<h6>
 
